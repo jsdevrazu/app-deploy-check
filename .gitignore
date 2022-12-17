@@ -1,0 +1,8 @@
+.DS_Store
+.thumbs.db
+node_modules
+# Nuxt dev/build outputs
+.output
+.nuxt
+# System files
+*.log
