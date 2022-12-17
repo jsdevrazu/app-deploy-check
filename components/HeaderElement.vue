@@ -30,7 +30,7 @@
                                     </button>
                                     <select name="language" id="language" class="text-white border-white rounded ml-2">
                                             <option id="language" value="zh-tw">
-                                                <span>Zh-tw</span>
+                                                Zh-tw
                                             </option>
                                         </select>
                                 </div>

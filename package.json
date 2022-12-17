@@ -5,7 +5,7 @@
     "author": "uzzal",
     "private": true,
     "engines": {
-        "node": "16.18.1"
+        "node": "16.17.1 || 16.18.1"
       },
     "scripts": {
         "dev": "nuxt",
