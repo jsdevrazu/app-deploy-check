@@ -4,6 +4,9 @@
     "description": "Creative Multipurpose Vue Nuxt JS Template",
     "author": "uzzal",
     "private": true,
+    "engines": {
+        "node": "16.17.1"
+      },
     "scripts": {
         "dev": "nuxt",
         "build": "nuxt build",
